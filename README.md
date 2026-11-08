@@ -15,7 +15,7 @@ O programa percorre a senha caractere por caractere e conta quantas letras maiú
 | 2 ou mais números | 2 |
 | 1 número | 1 |
 | 1 ou mais símbolos | 1 |
-| Tamanho de 8 ou mais caracteres (CONFIRME NO SEU CÓDIGO) | 1 |
+| Tamanho de 8 ou mais caracteres | 1 |
 
 **Classificação:** 0 a 3 pontos = Fraca · 4 a 7 = Média · 8 = Forte
 
