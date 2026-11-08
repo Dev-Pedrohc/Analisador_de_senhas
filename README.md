@@ -27,12 +27,11 @@ O programa percorre a senha caractere por caractere e conta quantas letras maiú
 python main.py
 
 ## Exemplo
-(Cole aqui um print do terminal ou o texto de uma execução real)
+<img width="1046" height="41" alt="image" src="https://github.com/user-attachments/assets/1ded981c-6e01-4863-9e3b-80d963e1cbed" />
+
 
 ## Próximos passos
 - [ ] Mostrar a pontuação e o que falta para melhorar a senha
 - [ ] Cores no terminal
 - [ ] Menu e gerador de senhas
 
-## Autor
-Pedro — estudante de Ciências da Computação
