@@ -32,6 +32,5 @@ python main.py
 
 ## Próximos passos
 - [ ] Mostrar a pontuação e o que falta para melhorar a senha
-- [ ] Cores no terminal
 - [ ] Menu e gerador de senhas
 
