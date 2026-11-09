@@ -43,11 +43,11 @@ if len(senha) >= 8:
 
 #Classificação: 0 a 3 é Fraca, 4 a 7 é Média, 8 é Forte.
 if pontos >= 8:
-    print(f'Sua senha é uma senha considerada forte, tendo {maiuscula} letras maiúsculas, {minuscula} letras minúsculas, {numeros} números e {caracteres} caracteres!')
+    print(f'\033[1;32mSua senha é uma senha considerada forte, tendo {maiuscula} letras maiúsculas, {minuscula} letras minúsculas, {numeros} números e {caracteres} caracteres!')
 elif pontos >= 4:
-    print(f'Sua senha é uma senha considerada média, tendo {maiuscula} letras maiúsculas, {minuscula} letras minúsculas, {numeros} números e {caracteres} caracteres! ')
+    print(f'\033[1;33mSua senha é uma senha considerada média, tendo {maiuscula} letras maiúsculas, {minuscula} letras minúsculas, {numeros} números e {caracteres} caracteres! ')
 else:
-    print(f'Sua senha é uma senha considerada fraca, tendo {maiuscula} letras maiúsculas, {minuscula} letras minúsculas, {numeros} números e {caracteres} caracteres!')
+    print(f'\033[1;31mSua senha é uma senha considerada fraca, tendo {maiuscula} letras maiúsculas, {minuscula} letras minúsculas, {numeros} números e {caracteres} caracteres!')
 
 
     
